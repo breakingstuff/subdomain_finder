@@ -37,7 +37,7 @@ Installation
 
 1. Clone the repository:
 
-git clone [repository_url]
+git clone https://github.com/breakingstuff/subdomain_finder/tree/main
 cd phoenix
 
 2. Install the required dependencies:
